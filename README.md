@@ -8,4 +8,4 @@ NOTE: I used already built model from TensorFlow and the result are not 100% cor
 
 
 <h2>Demo video<h2>
-(https://user-images.githubusercontent.com/37705852/195863513-b457ad24-7274-4cd6-b8ae-2b8d29bf68f6.gif)
+<img src="https://user-images.githubusercontent.com/37705852/195863513-b457ad24-7274-4cd6-b8ae-2b8d29bf68f6.gif"  width="300" height="450">
