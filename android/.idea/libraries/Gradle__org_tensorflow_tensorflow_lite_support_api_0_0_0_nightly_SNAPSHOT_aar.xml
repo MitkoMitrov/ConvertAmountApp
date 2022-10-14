@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-support-api:0.0.0-nightly-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0767e2c416413e9b83cf4e32d301b9f6/transformed/jetified-tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72b03dc891da89e7104afced8e1de798/transformed/jetified-tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fa977ee0fe4401dcd7ad5f790cc2ed02/transformed/jetified-tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/958dba7aa1a303c7a9ffc12a93523c01/transformed/jetified-tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/59a2c197c0cd15ae4954b6799d5bbd5d/transformed/jetified-tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/22db0b86882b4c368cd42e246cd49b45/transformed/jetified-tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/72b03dc891da89e7104afced8e1de798/transformed/jetified-tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/72b03dc891da89e7104afced8e1de798/transformed/jetified-tensorflow-lite-support-api-0.0.0-nightly-SNAPSHOT/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
